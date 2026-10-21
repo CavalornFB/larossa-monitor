@@ -1,0 +1,30 @@
+[
+  {
+    "id": "Aperi Supper|26/12/2026|19:00",
+    "service": "Aperi Supper",
+    "date": "26/12/2026",
+    "weekday": "Sabato",
+    "time": "19:00"
+  },
+  {
+    "id": "Aperi Supper|26/12/2026|19:30",
+    "service": "Aperi Supper",
+    "date": "26/12/2026",
+    "weekday": "Sabato",
+    "time": "19:30"
+  },
+  {
+    "id": "Aperi Supper|26/12/2026|20:00",
+    "service": "Aperi Supper",
+    "date": "26/12/2026",
+    "weekday": "Sabato",
+    "time": "20:00"
+  },
+  {
+    "id": "Aperi Supper|26/12/2026|20:30",
+    "service": "Aperi Supper",
+    "date": "26/12/2026",
+    "weekday": "Sabato",
+    "time": "20:30"
+  }
+]

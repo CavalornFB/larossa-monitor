@@ -1,0 +1,21 @@
+# Environment variables and secrets
+.env
+.env.local
+
+# Local testing scripts
+send_5_tests.py
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
